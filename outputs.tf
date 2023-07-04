@@ -18,6 +18,10 @@ output "app2private_subnet_id" {
   value = aws_subnet.app2_pri_sub
 }
 
-#output "public_ec2_address" {
-#  value = aws_instance.prod_pub_ec2.public_ip
-#}
+output "aws_launch_template" {
+  value = aws_launch_template.web_lt
+}
+
+output "aws_autoscaling_group" {
+  value = aws_autoscaling_group.web_asg_group
+}

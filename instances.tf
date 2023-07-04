@@ -1,9 +1,4 @@
-resource "aws_key_pair" "prod_key" {
-  key_name   = "prod_key"
-  public_key = var.prod_pub_key
-}
-
-resource "aws_instance" "web1_pub_ec2" {
+/*resource "aws_instance" "web1_pub_ec2" {
   ami                         = var.ami_id
   instance_type               = var.instance_type
   key_name                    = aws_key_pair.prod_key.key_name
@@ -101,4 +96,4 @@ resource "aws_instance" "app2_sub_ec2" {
   tags = {
     Name = "Appserver-1b"
   }
-}
+} */
