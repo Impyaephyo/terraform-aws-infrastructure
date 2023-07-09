@@ -4,11 +4,11 @@ variable "region" {
 }
 
 variable "aws_access_key" {
-  default = "Key here"
+  default = "key here"
 }
 
 variable "aws_secret_key" {
-  default = "Key here"
+  default = "key here"
 }
 
 variable "vpc_cidr" {
