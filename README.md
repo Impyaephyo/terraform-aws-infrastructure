@@ -1,6 +1,7 @@
 # AWS_Infrastructure_code_with_Terraform_playground
+![PyaeLab drawio (2)](https://github.com/Impyaephyo/terraform-aws-infrastructure/assets/77662642/084fd1e4-4e15-4ece-853a-6cd7ff7ec3dd)
 
 This is the AWS_Infrastructure code written with Terraform.
-![pyaelab](https://github.com/Impyaephyo/AWS_Infrastructure_code_with_Terraform/assets/77662642/9faa9ed1-29c8-4b9a-9ebd-a6add601a0c2)
+
 # terraform-aws-infrastructure
 # terraform-aws-infrastructure
