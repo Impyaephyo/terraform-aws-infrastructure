@@ -4,4 +4,3 @@
 This is the AWS_Infrastructure code written with Terraform.
 
 # terraform-aws-infrastructure
-# terraform-aws-infrastructure
